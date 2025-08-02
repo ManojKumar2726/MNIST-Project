@@ -10,15 +10,15 @@ Build a neural network that can accurately predict handwritten digits from the M
 
 ## Project Structure
 Number Classification/
-├── data # MNIST Dataset
-├── Training_Eval.py # Model, Training loop and evaluation
-├── run.py # Runs the model
-├── model.pth # Saved model
-├── runs # TensorBoard Visualization
-├── Sample # Sample output images (optional)
-├── report.docx # Internship report
-├── requirements.txt # Required Python packages
-└── README.md # Project overview
+- data # MNIST Dataset
+- Training_Eval.py # Model, Training loop and evaluation
+- run.py # Runs the model
+- model.pth # Saved model
+- runs # TensorBoard Visualization
+- Sample # Sample output images (optional)
+- report.docx # Internship report
+- requirements.txt # Required Python packages
+- README.md # Project overview
 
 ## Model Overview
 Framework: PyTorch

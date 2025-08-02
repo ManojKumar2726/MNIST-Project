@@ -20,7 +20,7 @@ Number Classification/
 ├── requirements.txt # Required Python packages
 └── README.md # Project overview
 
-Model Overview
+## Model Overview
 Framework: PyTorch
 
 Dataset: MNIST (28x28 grayscale images of digits 0–9)
@@ -29,7 +29,7 @@ Architecture: Simple Feedforward Neural Network
 
 Accuracy: ~96% on test data
 
-How to Run
+## How to Run
 1. Train the Model
 
 Training_Eval.py
@@ -55,20 +55,20 @@ Then run:
 
 run.py 
 
-Requirements
+## Requirements
 
 Install all dependencies with:
 
 pip install -r requirements.txt
 
-Author:
+## Author
 Manoj Kumar S
 Thiagarajar College of Engineering
 Internship Guide: Shankar Nivas Manickam
 Company: Sailors Inc.
 Date: 02.08.2025
 
-📸 Sample Results
+## Sample Results
 ![MNIST Prediction](Sample/sample1.pn)
 Predicted Digit: 7
 Confidence per digit:
@@ -83,7 +83,8 @@ Confidence per digit:
  8 -> 0.24%
  9 -> 0.00%
  
-📂 Notes
+## Notes
+
 This repo is for educational/internship purposes.
 
 Dataset is auto-downloaded by PyTorch's torchvision.datasets.

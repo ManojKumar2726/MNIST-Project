@@ -69,7 +69,7 @@ Company: Sailors Inc.
 Date: 02.08.2025
 
 ## Sample Results
-![MNIST Prediction](Sample/sample1.pn)
+![MNIST Prediction](Number Classification/Sample/sample1.pn)
 Predicted Digit: 7
 Confidence per digit:
  0 -> 0.00%

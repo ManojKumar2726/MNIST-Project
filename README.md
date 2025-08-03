@@ -1,4 +1,4 @@
-# Manoj-Kumar-S
+# MNIST Classification
 Deep Learning project using PyTorch to classify handwritten digit
 
 # Handwritten Digit Recognition using Deep Learning

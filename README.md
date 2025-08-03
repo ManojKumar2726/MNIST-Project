@@ -14,7 +14,7 @@ Number Classification/
 - Training_Eval.py # Model, Training loop and evaluation
 - run.py # Runs the model
 - model.pth # Saved model
-- Sample # Sample output images (optional)
+- Sample # Sample output images 
 - report.docx # Internship report
 - requirements.txt # Required Python packages
 - README.md # Project overview

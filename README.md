@@ -62,26 +62,29 @@ Install all dependencies with:
 pip install -r requirements.txt
 
 ## Author
-Manoj Kumar S
-Thiagarajar College of Engineering
-Internship Guide: Shankar Nivas Manickam
-Company: Sailors Inc.
-Date: 02.08.2025
+- Manoj Kumar S
+- Thiagarajar College of Engineering
+- Internship Guide: Shankar Nivas Manickam
+- Company: Sailors Inc.
+- Date: 02.08.2025
 
 ## Sample Results
-![MNIST Prediction](Number Classification/Sample/sample1.png)
-Predicted Digit: 7
-Confidence per digit:
- 0 -> 0.00%
- 1 -> 0.00%
- 2 -> 0.03%
- 3 -> 0.01%
- 4 -> 0.00%
- 5 -> 0.00%
- 6 -> 0.00%
- 7 -> 99.72%
- 8 -> 0.24%
- 9 -> 0.00%
+### Sample Prediction
+
+![MNIST Prediction](Number%20Classification/Sample/sample1.png)
+
+**Predicted Digit:** 7  
+**Confidence per digit:**  
+- 0 → 0.00%  
+- 1 → 0.00%  
+- 2 → 0.03%  
+- 3 → 0.01%  
+- 4 → 0.00%  
+- 5 → 0.00%  
+- 6 → 0.00%  
+- 7 → 99.72%  
+- 8 → 0.24%  
+- 9 → 0.00%
  
 ## Notes
 
